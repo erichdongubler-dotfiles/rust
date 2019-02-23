@@ -46,10 +46,8 @@ echo "Installing/updating \`cargo\`-powered dev tools via \`cargo install-update
 cargo install-update -i \
 	bat \
 	hexyl \
+	sd \
 	treeify \
 	tokei \
 	watchexec \
 	;
-# Packages to fix up:
-	# Needs Windows support ()
-	# sd \
